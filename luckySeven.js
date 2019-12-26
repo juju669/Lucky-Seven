@@ -10,7 +10,7 @@ function play() {
   var money = Number(start);
   var firstDie = 0;
   var secondDie = 0;
-  var diceSum;\
+  var diceSum;
   var max = 0;
   var rollsNum = 0;
   var rollsAtMax = 0;
